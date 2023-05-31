@@ -1,4 +1,4 @@
-### Holaa 👋
+### Hola 👋
 
 🔭 Currently working on: Developing innovative web applications and solving complex problems.<br>👯 Seeking collaboration on: Exciting projects with cutting-edge technologies.<br>🤝 Need help with: Expanding my knowledge and expertise in cybersecurity practices.<br>🌱 Currently learning: Machine learning algorithms and serverless architecture.<br>💬 Ask me about: Web development, JavaScript/TypeScript, React, and software testing.<br>⚡ Fun fact: sudoku = 🤍
 ## 🌐 Socials:

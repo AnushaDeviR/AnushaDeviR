@@ -9,8 +9,7 @@
 
 # 🪄 Currently building: 
 ### 👩🏼‍💻[Minio](https://minio.vercel.app/) → an URL shortener site built using NextJs, SupaBase ([REPO](https://github.com/AnushaDeviR/url-shortener-site))<br>
-#### 👩🏼‍💻Is it complex? → a site built using NextJs, Replicate which generates a code's time and space complexity with explanation ([REPO](https://github.com/AnushaDeviR/is-it-complex))
-- _work in progress_
+#### 👩🏼‍💻Is it complex? → a site built using NextJs, Replicate which generates a code's time and space complexity with explanation ([REPO](https://github.com/AnushaDeviR/is-it-complex)) → _work in progress_
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnushadeviR&theme=dark&hide_border=true)

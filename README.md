@@ -1,6 +1,6 @@
 ### Hola 👋
 
-🔭 **Currently working on:** Developing innovative web applications and solving complex problems.<br>👯 **Seeking collaboration on:** Exciting projects with cutting-edge technologies.<br>🤝**Need help with:** Expanding my knowledge and expertise in cybersecurity practices.<br>🌱 **Currently learning:** Svelte <br>💬 **Ask me about:** Web development, JavaScript/TypeScript, React, and software testing.<br>⚡ **Fun fact:** sudoku, poetry = 🤍
+🔭 **Currently working on:** Developing innovative web applications and solving complex problems.<br>👯 **Seeking collaboration on:** Exciting projects with cutting-edge technologies.<br>🤝**Need help with:** Expanding my knowledge and expertise in cybersecurity practices.<br>🌱 **Currently learning:** browser extensions <br>💬 **Ask me about:** Web development, JavaScript/TypeScript, React, and software testing.<br>⚡ **Fun fact:** sudoku, poetry = 🤍
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushadevi-rajkumar)
 # 💻 Tech Stack:
